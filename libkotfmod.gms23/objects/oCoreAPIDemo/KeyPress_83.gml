@@ -1,0 +1,3 @@
+/// @description Stop
+
+mychan.stop();
